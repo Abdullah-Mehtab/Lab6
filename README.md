@@ -48,8 +48,7 @@ Turns on all LEDs, making them glow. Use this function for full illumination of 
 
 ```cpp
 #include <Lab6.h>
-
----
+```
 
 ## Additional Functionalities to Add
 
@@ -70,4 +69,4 @@ Here are five potential functionalities that could be added to the Lab6 library 
 5. **Custom Delay Control**  
    Allow users to define the delay times for the library's functions, such as counting and shifting. This would give users more control over the timing of the effects, allowing them to customize the speed of counting or shifting actions without modifying the core code.
 
----
+
